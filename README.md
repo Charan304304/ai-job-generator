@@ -101,7 +101,7 @@ This project requires OpenAI API credits. If quota is exceeded, generation may f
 
 ## 👨‍💻 Author
 
-Your Name
+Charan S
 
 ---
 
